@@ -1,0 +1,35 @@
+{
+  "user_id": "u_123",
+  "period_days": 30,
+  "timezone": "Europe/Amsterdam",
+  "metrics": {
+    "resting_hr": {
+      "baseline": 60,
+      "last_7_days_avg": 68,
+      "last_30_days_avg": 64,
+      "trend": "up"
+    },
+    "hrv_rmssd_ms": {
+      "baseline": 42,
+      "last_7_days_avg": 31,
+      "last_30_days_avg": 37,
+      "trend": "down"
+    },
+    "sleep_hours": {
+      "baseline": 7.4,
+      "last_7_days_avg": 6.1,
+      "last_30_days_avg": 6.7,
+      "trend": "down"
+    },
+    "steps": {
+      "baseline": 8500,
+      "last_7_days_avg": 9800,
+      "last_30_days_avg": 9100,
+      "trend": "up"
+    }
+  },
+  "notes": [
+    "Started new job 2 weeks ago",
+    "Coffee intake increased"
+  ]
+}
